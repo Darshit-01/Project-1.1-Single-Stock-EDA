@@ -73,11 +73,11 @@ Industry-ready documentation
 
 1. Open the .ipynb files using:
 
-Jupyter Notebook
+   Jupyter Notebook
 
-Jupyter Lab
+   Jupyter Lab
 
-VSCode
+   VSCode
 
 2. Run cells sequentially.
 
